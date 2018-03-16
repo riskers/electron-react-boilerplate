@@ -4,12 +4,10 @@ using [electron-forge](https://github.com/electron-userland/electron-forge)
 
 includes:
 
-* react
-* react-dom
-* redux
-* redux-thunk
+* react && react-dom
+* redux && redux-thunk
 * react-router-dom
-* react-ho-loader
+* react-hot-loader
 * axios
 * eslint
 * husky
