@@ -12,6 +12,17 @@ includes:
 * eslint
 * husky
 
+```
+src
+| --- pages
+        | --- Home
+| --- store
+| --- app.jsx // render process entry
+| --- main.js // main process entry
+| --- index.html
+| --- style.less
+```
+
 ## Usage
 
 1. download the boilerplate
