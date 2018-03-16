@@ -12,6 +12,18 @@ includes:
 * eslint
 * husky
 
+## Usage
+
+1. download the boilerplate
+
+```
+git clone git@github.com:riskers/electron-react-boilerplate.git
+```
+
+2. `cd electron-react-boilerplate`
+
+3. `rm -rf .git`
+
 ## install
 
 ```
