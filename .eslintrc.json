@@ -1,0 +1,19 @@
+{
+    "parser": "babel-eslint",
+    "parserOptions": {
+        "ecmaVersion": 2017,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "extends": [
+        "eslint-config-airbnb-base",
+        "airbnb/rules/react"
+    ],
+    "rules": {
+        "react/prop-types": 0,
+        "import/prefer-default-export": 0,
+        "import/no-extraneous-dependencies": 0
+    }
+}
